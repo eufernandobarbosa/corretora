@@ -8,7 +8,7 @@ body {
 }
 
 img {
-            display: flex;  /*Caso eu queira fazer alguma alteração use o display: box;**/
+            display: block;  /*Caso eu queira fazer alguma alteração use o display: block;**/
             margin: auto;
         }
 
